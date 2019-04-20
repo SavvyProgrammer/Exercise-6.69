@@ -1,4 +1,4 @@
-Exercise 6.69 (a) 
+**Exercise 6.69 (a)** 
 Calculate the weighted average of a list of n numbers, using the formula
 x = f1x1 + f2x2 + ... + fnxn
 where the f’s are fractional weighting factors,i.e.,
